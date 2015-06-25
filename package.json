@@ -1,0 +1,23 @@
+{
+  "name": "sass-boilerplate",
+  "version": "0.0.1",
+  "description": "sass boilerplate for kalaprojects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalamuna/sass-boilerplate.git"
+  },
+  "keywords": [
+    "sass",
+    "kalamuna"
+  ],
+  "author": "Thiago de Mello Bueno <thiago@kalamuna.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kalamuna/sass-boilerplate/issues"
+  },
+  "homepage": "https://github.com/kalamuna/sass-boilerplate#readme"
+}
