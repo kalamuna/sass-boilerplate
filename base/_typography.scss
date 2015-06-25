@@ -1,0 +1,6 @@
+textarea,
+input {
+  @include placeholder {
+    line-height: 1.5;
+  }
+}
