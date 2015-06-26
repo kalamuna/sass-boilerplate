@@ -1,3 +1,6 @@
+// Positioning
+////////////////////////////////////
+
 %center-horizontal {
   position: relative;
   left: 50%;
@@ -13,12 +16,20 @@
   transform: translateY(-50%);
 }
 
+
+// Resets
+////////////////////////////////////
+
 %filters--reset {
   filter: inherit;
   -o-filter: inherit;
   -webkit-filter: inherit;
   filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
 }
+
+
+// Misc
+////////////////////////////////////
 
 %image--greyscale {
   filter: grayscale(100%);
