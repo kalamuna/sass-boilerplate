@@ -28,22 +28,6 @@
   -webkit-filter: grayscale(100%); /* Chrome 19+, Safari 6+, Safari 6+ iOS */
 }
 
-%image--responsive {
-  width: 100%;
-  height: auto;
-}
-
-%offscreen {
-  position: absolute;
-  top: -99999em;
-  width: 1px;
-  height: 1px;
-  overflow: hidden;
-  outline: 0;
-}
-
-.sr-only { @extend %offscreen; }
-
 %hideIconText{
   &>span { @extend %offscreen; }
 }
