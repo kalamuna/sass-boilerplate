@@ -14,7 +14,16 @@
     "sass",
     "kalamuna"
   ],
-  "author": "Thiago de Mello Bueno <thiago@kalamuna.com>",
+  "contributors": [
+    {
+      name: "Thiago de Mello Bueno",
+      email: "thiago@kalamuna.com"
+    },
+    {
+      name: "Josh Walker",
+      email: "josh@kalamuna.com"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kalamuna/sass-boilerplate/issues"
