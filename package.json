@@ -16,12 +16,12 @@
   ],
   "contributors": [
     {
-      name: "Thiago de Mello Bueno",
-      email: "thiago@kalamuna.com"
+      "name": "Thiago de Mello Bueno",
+      "email": "thiago@kalamuna.com"
     },
     {
-      name: "Josh Walker",
-      email: "josh@kalamuna.com"
+      "name": "Josh Walker",
+      "email": "josh@kalamuna.com"
     }
   ],
   "license": "MIT",
