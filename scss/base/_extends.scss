@@ -50,16 +50,6 @@
   -webkit-filter: grayscale(100%); /* Chrome 19+, Safari 6+, Safari 6+ iOS */
 }
 
-%hideIconText{
-  &>span { @extend %offscreen; }
-}
-
-%visible-sm {
-  @media( min-width: $screen-sm ){
-    display: none;
-  }
-}
-
 
 // Transitions
 ////////////////////////////////////
