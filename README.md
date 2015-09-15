@@ -13,13 +13,16 @@ More to come.
 ## Installation
 
 1. Install [Khaos](http://khaos.io)
-
-    npm i khaos -g
+  ```
+  npm i khaos -g
+  ```
 
 2. Install sass-boilerplate
-
-    khaos install kalamuna/sass-boilerplate
+  ```
+  khaos install kalamuna/sass-boilerplate
+  ```
 
 3. Build it!
-
-    khaos create sass-boilerplate scss
+  ```
+  khaos create sass-boilerplate scss
+  ```
