@@ -1,0 +1,6 @@
+schema:
+  name:
+    type: string
+    label: Name
+    hint: (eg. kalatheme)
+    required: false

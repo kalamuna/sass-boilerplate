@@ -9,3 +9,20 @@ Generally following [Atomic design principles](http://bradfrost.com/blog/post/at
 Aiming to acheive a drupal friendlyness while raising our heads high via [fugly selector method](https://www.previousnext.com.au/blog/decouple-design-styleguide-driven-drupal-development)
 
 More to come.
+
+## Installation
+
+1. Install [Khaos](http://khaos.io)
+  ```
+  npm i khaos -g
+  ```
+
+2. Install sass-boilerplate
+  ```
+  khaos install kalamuna/sass-boilerplate
+  ```
+
+3. Build it!
+  ```
+  khaos create sass-boilerplate scss
+  ```

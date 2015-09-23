@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+/**
+ * SASS for {{ name }}.
+ */
+
 // Pull in libs.
 @import "base/variables";
 @import "base/bootstrap-variables";
@@ -29,4 +33,3 @@
 
 // Pages
 @import "pages/about";
-
